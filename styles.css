@@ -1,19 +1,19 @@
 #card1 {
-    background-color: black; 
+     
     border: solid green; 
     color: white; 
     border-radius: 30px; 
     font-family: 'Poppins', sans-serif;
 }
 #card2 {
-    background-color: black; 
+     
     border: solid red; 
     color: white; 
     border-radius: 30px; 
     font-family: 'Poppins', sans-serif;
 }
 #card3 {
-    background-color: black; 
+     
     border: solid blue; 
     color: white; 
     border-radius: 30px; 
